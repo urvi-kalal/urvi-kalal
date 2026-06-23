@@ -1,27 +1,96 @@
-# Hi 👋, I'm a Node.js Developer
+# Hi 👋, I'm Urvi Kalal
 
-## 🚀 About Me
-Backend-focused Node.js Developer with 3+ years of experience building scalable, high-performance backend systems.
+## Full Stack (MERN) Developer | Node.js | React.js | TypeScript
 
-I specialize in designing efficient REST APIs, optimizing MongoDB queries, and managing background jobs using cron. I have worked on SEO audit platforms, focusing on performance, reliable data processing, and improving overall system efficiency.
+### 🚀 About Me
+
+MERN Stack Developer with 4 years of software development experience, specializing in building scalable web applications and high-performance backend systems.
+
+Experienced in designing REST APIs, optimizing databases, integrating third-party services, implementing payment workflows with Stripe, and developing responsive frontend applications using React.js.
+
+Worked on production systems serving 40,000+ active users, focusing on performance optimization, reliability, and clean architecture.
+
+---
 
 ## 🛠 Tech Stack
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, MySQL  
-- **Caching & Tools:** Redis  
-- **Core Skills:** REST APIs, Cron Jobs, Performance Optimization, Clean Architecture  
+
+### Frontend
+
+* React.js
+* JavaScript (ES6+)
+* TypeScript
+* React Router
+* HTML5
+* CSS3
+* Vite
+
+### Backend
+
+* Node.js
+* Express.js
+* REST APIs
+* Socket.IO
+
+### Database
+
+* MongoDB
+* MySQL
+* Redis
+
+### Cloud & DevOps
+
+* AWS
+* Docker
+* Jenkins
+* PM2
+
+### Integrations
+
+* Stripe
+* OpenAI
+* Gemini
+* Claude
+* Third-Party APIs
+
+---
+
+## 💼 What I Build
+
+* Scalable MERN applications
+* RESTful APIs
+* Authentication & Authorization (RBAC)
+* Payment & Subscription Systems
+* Real-time Applications
+* Admin Dashboards
+* SaaS Platforms
+* AI-powered Features
+
+---
 
 ## 🌱 Currently Exploring
-- System Design  
-- Caching Strategies (Redis, In-Memory)  
-- Scalable & Distributed Backend Architectures  
+
+* System Design
+* Advanced TypeScript
+* Microservices Architecture
+* Scalable Distributed Systems
+* Cloud-Native Applications
+
+---
 
 ## 📌 Current Focus
-Building production-ready backend systems with better scalability, performance, and clean architecture.
+
+Building production-ready MERN applications with strong performance, scalability, and maintainable architecture.
+
+---
 
 ## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/urvi-kalal-a01527218  
-- Email: urvikalal220@gmail.com  
+
+LinkedIn: linkedin.com/in/urvi-kalal-a01527218
+
+Email: [urvikalal03122@gmail.com](mailto:urvikalal03122@gmail.com)
+
+---
 
 ## ⚡ Fun Fact
-I enjoy optimizing backend systems — turning slow queries into fast, efficient solutions 🚀
+
+I enjoy optimizing slow APIs, improving database performance, and building features that scale from hundreds to thousands of users.
