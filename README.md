@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 
-MERN Stack Developer with 4 years of software development experience, specializing in building scalable web applications and high-performance backend systems.
+MERN Stack Developer with 3+ years of software development experience, specializing in building scalable web applications and high-performance backend systems.
 
 Experienced in designing REST APIs, optimizing databases, integrating third-party services, implementing payment workflows with Stripe, and developing responsive frontend applications using React.js.
 
